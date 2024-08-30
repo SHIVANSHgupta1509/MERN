@@ -1,0 +1,2 @@
+HTTP is just a way(protocol) to expose your code to the world and can be written in
+Express or SpringBoot or whatever,
